@@ -4,11 +4,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\pixstock.service.infra\Pixstock.Service.Infra.csproj" />
-    <ProjectReference Include="..\pixstock.service.gateway\Pixstock.Service.Gateway.csproj" />
-    <ProjectReference Include="..\pixstock.common.model\Pixstock.Common.Model.csproj" />
-    <ProjectReference Include="..\pixstock.common.core\Pixstock.Common.Core.csproj" />
-    <ProjectReference Include="..\pixstock.service.parent\hyperion.pf.entity\Hyperion.Pf.Entity.csproj" />
+    <ProjectReference Include="..\Pixstock.Service.Infra\Pixstock.Service.Infra.csproj" />
+    <ProjectReference Include="..\Pixstock.Service.Gateway\Pixstock.Service.Gateway.csproj" />
+    <ProjectReference Include="..\Pixstock.Common.Model\Pixstock.Common.Model.csproj" />
+    <ProjectReference Include="..\Pixstock.Common.Core\Pixstock.Common.Core.csproj" />
+    <ProjectReference Include="..\Pixstock.Service.Parent\Hyperion.Pf.Entity\Hyperion.Pf.Entity.csproj" />
   </ItemGroup>
 
   <ItemGroup>
